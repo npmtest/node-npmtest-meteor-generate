@@ -1,6 +1,6 @@
 # npmtest-meteor-generate
 
-#### test coverage for  [meteor-generate (v0.12.2)](https://github.com/AdamBrodzinski/meteor-generate)  [![npm package](https://img.shields.io/npm/v/npmtest-meteor-generate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-meteor-generate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-meteor-generate.svg)](https://travis-ci.org/npmtest/node-npmtest-meteor-generate)
+#### basic test coverage for  [meteor-generate (v0.12.2)](https://github.com/AdamBrodzinski/meteor-generate)  [![npm package](https://img.shields.io/npm/v/npmtest-meteor-generate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-meteor-generate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-meteor-generate.svg)](https://travis-ci.org/npmtest/node-npmtest-meteor-generate)
 
 #### Generate Meteor scaffolding on demand
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-meteor-generate/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-meteor-generate/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-meteor-generate/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-meteor-generate/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-meteor-generate/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-meteor-generate/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-meteor-generate/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-meteor-generate/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-meteor-generate/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-meteor-generate/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-meteor-generate/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-meteor-generate/build/coverage.html/index.html)
 
